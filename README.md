@@ -1,5 +1,4 @@
-JADE 
-(Java Agents DEv Framework) Quickstart Application
+JADE (Java Agents DEv Framework) Quickstart Application
 ====================
 
 Working test of this framework from http://dilukstechtalk.wordpress.com/tag/jade/
